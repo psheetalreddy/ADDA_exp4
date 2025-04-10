@@ -1,2 +1,4 @@
-numpy==1.23.5
-pandas==1.5.3
+pylint==3.3.6       # Linter for code quality
+requests==2.31.0    # For making HTTP requests
+flask==2.3.2        # Lightweight web framework (if needed)
+numpy==1.24.4       # For basic numerical computation

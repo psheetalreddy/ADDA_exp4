@@ -7,7 +7,7 @@ def main():
     """
     Main function that prints a greeting message.
     """
-    print("P Sheetal Reddy 22MIC0080")
+ print("P Sheetal Reddy 22MIC0080")
 
 
 if __name__ == "__main__":
